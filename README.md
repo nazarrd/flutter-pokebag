@@ -1,6 +1,6 @@
 # Mobile Developer (Flutter) - Century 21
 
-Project ini merupakan test case dari [Century 21](https://www.century21.co.id/) untuk posisi **Mobile Developer**. Untuk pembuatan project structure menggunakan `Get CLI` dengan pattern milik **GetX Pattern (by Kauê)**. Begitu juga untuk generate model, page, view, dan lainnya semua menggunakan `Get CLI`. Untuk fetch data dari API menggunakan package [Dio](https://pub.dev/packages/dio).  
+Project ini merupakan test case dari [Century 21](https://www.century21.co.id/) untuk posisi **Mobile Developer**. Untuk pembuatan project structure, generate model, page, view, dan lainnya semua menggunakan `Get CLI` dengan pattern `GetX Pattern (by Kauê)` dan untuk fetch data dari API menggunakan package [Dio](https://pub.dev/packages/dio).  
 
 * Sumber Data : [Poke API](https://pokeapi.co/docs/v2)  
 * Referensi : [Pokebag](https://pokebag.vercel.app/)  
